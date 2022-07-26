@@ -1,0 +1,11 @@
+# Compiled binaries
+main
+verifier
+
+# Tests
+tests/inputs/in??.txt
+tests/outputs/out??.txt
+inputs.txt
+
+# Dev
+.vscode/
