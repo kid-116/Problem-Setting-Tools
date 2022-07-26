@@ -6,5 +6,5 @@
 - Insert your solution to the problem in the file `soln.cpp`.
 - Execute `./run.sh` to extract input files generated or inserted manually, validate them and create corresponding output files under `tests/outputs/`.
 
-**Note**
+> **Note** <br />
 > The file `tests/inputs/wrong.txt` must be left as it is or a test failing constraints must be entered there.
